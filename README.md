@@ -2,12 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 <h4>A Full-Stack developer | AI Engineer</h4>
 
-- 🔭 I’m currently working on a MERN, Vue.JS, Next.JS, NodeJS, Machine Learning and ReactJS Projects
+- 🔭 I’m currently working on a Artificial Intelligence, Machine Learning Projects, Vue.JS, Next.JS, and NodeJS
 - 👀 I’m interested in Software Development, Machine Learning & Entrepreneurship
 - 🌱 I’m Interested to work on Web 3.0
 - 👯 I’m making the world better by PRs 
 - 💬 Ask me about Technology & Finance
-- 📫 How to reach me: aayushkjvs@gmail.com
+- 📫 How to reach me: jvsaayushkumar@gmail.com
 
 
 <a href="https://www.github.com/aayushkumarjvs" target="_blank" rel="noreferrer"><img
