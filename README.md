@@ -1,46 +1,140 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aayush
-======================================================================================================================================
-<h4>A Full-Stack developer | AI Engineer</h4>
+## 🧑‍💻 What I Do
 
-- 🔭 I’m currently working on a Artificial Intelligence, Machine Learning Projects, Vue.JS, Next.JS, and NodeJS
-- 👀 I’m interested in Software Development, Machine Learning & Entrepreneurship
-- 🌱 I’m Interested to work on Web 3.0
-- 👯 I’m making the world better by PRs 
-- 💬 Ask me about Technology & Finance
-- 📫 How to reach me: jvsaayushkumar@gmail.com
+<p align="center">
+  <img src="https://img.shields.io/badge/💻_Software_Engineering-0891b2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖_Artificial_Intelligence-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠_Machine_Learning-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔬_AI_Research-f59e0b?style=for-the-badge" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🐍_Python-Programming-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/🧩_Full--Stack-Development-61DAFB?style=flat-square" />
+  <img src="https://img.shields.io/badge/☁️_Cloud-AWS%20%7C%20GCP-4285F4?style=flat-square" />
+  <img src="https://img.shields.io/badge/🐳_Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
-<a href="https://www.github.com/aayushkumarjvs" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/aayushkumarjvs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushkumarjvs&label=Profile%20views&color=0e75b6&style=flat" alt="aayushkumarjvs" /> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/Aayushkumarjvs" target="blank"><img src="https://img.shields.io/twitter/follow/Aayushkumarjvs?logo=twitter&style=for-the-badge" alt="Aayushkumarjvs" /></a> </p>
+## 🎓 Academia
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="react" width="35" height="40"/> </a> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="firebase" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="git" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/download-icon-development+logo+mysql+icon-1320184807686758112_512.png" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓_Graduate_Research-AI%20%7C%20ML-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📚_Coursework-Computer%20Science-0366d6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔬_Research-LLMs%20%7C%20AI-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📝_Academic_Writing-Research-8250df?style=for-the-badge" />
+</p>
 
-<h3 align="left">Frameworks and Tools:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="tailwind" width="40" height="40"/> </a> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" alt="tailwind" width="50" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="tailwind" width="50" height="40"/> </a> </p>
+### 📚 Courses & Academic Areas
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-AI-6f42c1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-ML-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-f59e0b?style=flat-square" />
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-NLP-0366d6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-CV-e36209?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Structures-Algorithms-8250df?style=flat-square" />
+  <img src="https://img.shields.io/badge/Database%20Systems-SQL%20%7C%20NoSQL-0969da?style=flat-square" />
+  <img src="https://img.shields.io/badge/Operating%20Systems-Systems-57606a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer%20Networks-Networking-1f883d?style=flat-square" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-Development-b62324?style=flat-square" />
+</p>
 
-# Badges 
+---
 
-[![An image of @aayushkumarjvs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aayushkumarjvs)](https://holopin.io/@aayushkumarjvs)
+## 👨‍🏫 Teaching & Mentoring
 
-<b>My GitHub Stats</b>
+<p align="center">
+  <img src="https://img.shields.io/badge/👨‍🏫_Teaching-Computer%20Science-0969da?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧑‍🎓_Student_Mentoring-AI%20%7C%20ML-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻_Programming-Labs-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔬_Research_Mentoring-Research-f59e0b?style=for-the-badge" />
+</p>
 
-<a href="http://www.github.com/aayushkumarjvs"><img src="https://github-readme-stats.vercel.app/api?username=aayushkumarjvs&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="aayushkumarjvs's GitHub stats" /></a>
+**Topics I enjoy explaining:**
 
-<a href="http://www.github.com/aayushkumarjvs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushkumarjvs&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+```text
+Artificial Intelligence
+Machine Learning
+Deep Learning
+Large Language Models
+Natural Language Processing
+Python Programming
+Data Structures & Algorithms
+Software Engineering
+Cloud Computing
+Open Source Development
+```
 
-<a href="http://www.github.com/aayushkumarjvs"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=aayushkumarjvs&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+---
 
-<a href="https://github.com/aayushkumarjvs" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushkumarjvs&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 🧪 Research Interests
 
-<b>Top Repositories</b>
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖_Large_Language_Models-LLMs-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠_Generative_AI-GenAI-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔗_Agentic_AI-AI%20Agents-0969da?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔬_AI%20Systems-Research-2ea44f?style=for-the-badge" />
+</p>
 
-<div width="100%" align="center"><a href="https://github.com/aayushkumarjvs/" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushkumarjvs&repo=Dipayan&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/aayushkumarjvs" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushkumarjvs&repo=Sandesh&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-<!---
-aayushkumarjvs/aayushkumarjvs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM%20Evaluation-Research-f59e0b?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Agents-Agentic%20Systems-0969da?style=flat-square" />
+  <img src="https://img.shields.io/badge/Model%20Efficiency-AI%20Systems-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Responsible%20AI-Research-6f42c1?style=flat-square" />
+</p>
+
+---
+
+## 🧑‍💻 Programmer Mode
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coding animation" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/while(alive)-{%20code();%20learn();%20repeat();%20}-black?style=for-the-badge&logo=github" />
+</p>
+
+```python
+class Aayush:
+    role = ["AI Engineer", "Software Developer", "Researcher"]
+
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "LLMs",
+        "Agentic AI",
+        "Software Engineering",
+        "Research"
+    ]
+
+    philosophy = "Build → Research → Learn → Share"
+```
+
+---
+
+## 🎓 Academic Journey
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓_Computer_Science-Graduate_Studies-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔬_Research-AI%20%7C%20ML-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📖_Continuous_Learning-Always-0969da?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌎_International_Research-Experience-f59e0b?style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 Open Source
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🐙_GitHub-Open%20Source-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/🔀_Pull_Requests-Contributor-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💡_Projects-Building-0969da?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤝_Collaboration-Community-f59e0b?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <i>“Build things. Study things. Break things. Understand things.”</i>
+</p>
