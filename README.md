@@ -1,140 +1,261 @@
-## 🧑‍💻 What I Do
+## 🎓 Academia • Research • Teaching
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💻_Software_Engineering-0891b2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤖_Artificial_Intelligence-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🧠_Machine_Learning-22c55e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔬_AI_Research-f59e0b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓_Academic_Research-Computer%20Science-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔬_AI%20%26%20ML-Research-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/👨‍🏫_Teaching-%26%20Mentoring-0969da?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📚_Lifelong_Learning-Academia-f59e0b?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🐍_Python-Programming-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/🧩_Full--Stack-Development-61DAFB?style=flat-square" />
-  <img src="https://img.shields.io/badge/☁️_Cloud-AWS%20%7C%20GCP-4285F4?style=flat-square" />
-  <img src="https://img.shields.io/badge/🐳_Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/🧠_Artificial_Intelligence-Research-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/🤖_Machine_Learning-Research-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔗_Agentic_AI-Research-0969da?style=flat-square" />
+  <img src="https://img.shields.io/badge/📖_Large_Language_Models-LLMs-6f42c1?style=flat-square" />
+  <img src="https://img.shields.io/badge/📝_Scientific_Writing-Research-f59e0b?style=flat-square" />
 </p>
+
+> **My goal is to build a long-term career in academia at the intersection of Computer Science, Artificial Intelligence, Machine Learning, and research.**
 
 ---
 
-## 🎓 Academia
+## 🔬 Research Interests
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Graduate_Research-AI%20%7C%20ML-6f42c1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📚_Coursework-Computer%20Science-0366d6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔬_Research-LLMs%20%7C%20AI-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📝_Academic_Writing-Research-8250df?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-AI-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-ML-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative_AI-GenAI-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic_AI-AI%20Agents-0969da?style=for-the-badge" />
 </p>
 
-### 📚 Courses & Academic Areas
+### Areas I explore
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-AI-6f42c1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-ML-2ea44f?style=flat-square" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-f59e0b?style=flat-square" />
-  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-NLP-0366d6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-CV-e36209?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data%20Structures-Algorithms-8250df?style=flat-square" />
-  <img src="https://img.shields.io/badge/Database%20Systems-SQL%20%7C%20NoSQL-0969da?style=flat-square" />
-  <img src="https://img.shields.io/badge/Operating%20Systems-Systems-57606a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer%20Networks-Networking-1f883d?style=flat-square" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-Development-b62324?style=flat-square" />
-</p>
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning & Deep Learning
+* 🔗 Agentic AI and AI Agents
+* 📖 Large Language Models
+* 💬 Natural Language Processing
+* 🧪 AI Evaluation & Experimentation
+* ⚙️ Efficient AI Systems
+* 🧩 AI for Software Engineering
+* 🌐 Human-AI Interaction
+* 🔬 Applied AI Research
 
 ---
 
 ## 👨‍🏫 Teaching & Mentoring
 
 <p align="center">
-  <img src="https://img.shields.io/badge/👨‍🏫_Teaching-Computer%20Science-0969da?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🧑‍🎓_Student_Mentoring-AI%20%7C%20ML-6f42c1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💻_Programming-Labs-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔬_Research_Mentoring-Research-f59e0b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Teaching-Computer%20Science-0969da?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mentoring-Students-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Programming-Python%20%7C%20CS-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Research%20Mentoring-AI%20%7C%20ML-f59e0b?style=for-the-badge" />
 </p>
 
-**Topics I enjoy explaining:**
+### 📚 Courses & Topics
+
+<table>
+<tr>
+<td>🤖 Artificial Intelligence</td>
+<td>🧠 Machine Learning</td>
+<td>🧬 Deep Learning</td>
+</tr>
+<tr>
+<td>💬 Natural Language Processing</td>
+<td>📊 Data Science</td>
+<td>🧮 Algorithms</td>
+</tr>
+<tr>
+<td>💻 Programming</td>
+<td>🗄️ Database Systems</td>
+<td>🌐 Computer Networks</td>
+</tr>
+<tr>
+<td>⚙️ Software Engineering</td>
+<td>☁️ Cloud Computing</td>
+<td>🔐 Computer Systems</td>
+</tr>
+</table>
+
+> 📌 **Academic interest:** teaching computer science concepts through practical implementation, experimentation, and research-driven projects.
+
+---
+
+## 📚 Academic Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📖_Coursework-Computer%20Science-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧪_Research_Methodology-Research-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📊_Statistics-%26%20Experimentation-0969da?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📝_Scientific_Writing-Academia-f59e0b?style=for-the-badge" />
+</p>
+
+### Core Academic Areas
 
 ```text
-Artificial Intelligence
-Machine Learning
-Deep Learning
-Large Language Models
-Natural Language Processing
-Python Programming
-Data Structures & Algorithms
-Software Engineering
-Cloud Computing
-Open Source Development
+Computer Science
+├── Artificial Intelligence
+├── Machine Learning
+├── Deep Learning
+├── Natural Language Processing
+├── Large Language Models
+├── Algorithms & Data Structures
+├── Computer Systems
+├── Databases
+├── Software Engineering
+└── Cloud Computing
 ```
 
 ---
 
-## 🧪 Research Interests
+## 🧪 Research Workflow
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🤖_Large_Language_Models-LLMs-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🧠_Generative_AI-GenAI-6f42c1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔗_Agentic_AI-AI%20Agents-0969da?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔬_AI%20Systems-Research-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/01-Read%20%26%20Learn-6f42c1?style=for-the-badge" />
+  →
+  <img src="https://img.shields.io/badge/02-Form%20Hypotheses-7c3aed?style=for-the-badge" />
+  →
+  <img src="https://img.shields.io/badge/03-Experiment-0969da?style=for-the-badge" />
+  →
+  <img src="https://img.shields.io/badge/04-Evaluate-2ea44f?style=for-the-badge" />
+  →
+  <img src="https://img.shields.io/badge/05-Write%20%26%20Share-f59e0b?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-412991?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLM%20Evaluation-Research-f59e0b?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20Agents-Agentic%20Systems-0969da?style=flat-square" />
-  <img src="https://img.shields.io/badge/Model%20Efficiency-AI%20Systems-2ea44f?style=flat-square" />
-  <img src="https://img.shields.io/badge/Responsible%20AI-Research-6f42c1?style=flat-square" />
-</p>
+```text
+              ┌─────────────────────┐
+              │   Read the Work     │
+              │  Papers • Literature│
+              └──────────┬──────────┘
+                         ↓
+              ┌─────────────────────┐
+              │     Research        │
+              │ Question / Hypothesis│
+              └──────────┬──────────┘
+                         ↓
+              ┌─────────────────────┐
+              │     Experiment      │
+              │ Code • Models • Data│
+              └──────────┬──────────┘
+                         ↓
+              ┌─────────────────────┐
+              │      Evaluate       │
+              │ Results • Analysis  │
+              └──────────┬──────────┘
+                         ↓
+              ┌─────────────────────┐
+              │   Publish / Share   │
+              │ Papers • Code • Talks│
+              └─────────────────────┘
+```
 
 ---
 
-## 🧑‍💻 Programmer Mode
+## 🎤 Talks • Presentations • Knowledge Sharing
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coding animation" />
+  <img src="https://img.shields.io/badge/🎤_Conference_Talks-Research-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧑‍🏫_Technical_Talks-Teaching-0969da?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📖_Research_Presentations-AI%20%7C%20ML-2ea44f?style=for-the-badge" />
 </p>
 
+I enjoy communicating technical ideas through:
+
+* 🎤 Conference and technical talks
+* 🧑‍🏫 Lectures and teaching
+* 📑 Research presentations
+* 💻 Live coding demonstrations
+* 📝 Technical and academic writing
+* 🌎 Open-source knowledge sharing
+
+---
+
+## 🧑‍🔬 Researcher Mode
+
 <p align="center">
-  <img src="https://img.shields.io/badge/while(alive)-{%20code();%20learn();%20repeat();%20}-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Research-🔬-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code-💻-0969da?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Teach-👨‍🏫-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Publish-📄-f59e0b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Share-🌎-22c55e?style=for-the-badge" />
 </p>
 
 ```python
-class Aayush:
-    role = ["AI Engineer", "Software Developer", "Researcher"]
-
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "LLMs",
-        "Agentic AI",
-        "Software Engineering",
-        "Research"
-    ]
-
-    philosophy = "Build → Research → Learn → Share"
+academic_path = {
+    "learn": "Read papers and study new ideas",
+    "research": "Ask questions and run experiments",
+    "build": "Turn ideas into working systems",
+    "teach": "Explain and mentor",
+    "publish": "Communicate research",
+    "share": "Contribute to the community"
+}
 ```
 
 ---
 
-## 🎓 Academic Journey
+## 🌱 Long-Term Academic Direction
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Computer_Science-Graduate_Studies-6f42c1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔬_Research-AI%20%7C%20ML-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📖_Continuous_Learning-Always-0969da?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌎_International_Research-Experience-f59e0b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓_Graduate_Research-Computer%20Science-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔬_Research_Career-AI%20%7C%20ML-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/👨‍🏫_Teaching-Computer%20Science-0969da?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌎_Academic_Community-Open%20Research-2ea44f?style=for-the-badge" />
 </p>
+
+**My long-term direction is an academic career in Computer Science, combining research, teaching, mentorship, and open-source contributions.**
+
+I want my work to sit at the intersection of:
+
+**Research 🔬 + Engineering 💻 + Teaching 👨‍🏫 + AI 🤖 + Open Science 🌎**
 
 ---
 
-## 🚀 Open Source
+## 💻 From Code to Research
+
+```text
+             ┌──────────────────────┐
+             │    COMPUTER SCIENCE  │
+             └──────────┬───────────┘
+                        │
+             ┌──────────▼───────────┐
+             │ ARTIFICIAL INTELLIGENCE │
+             └──────────┬───────────┘
+                        │
+             ┌──────────▼───────────┐
+             │      RESEARCH        │
+             └──────────┬───────────┘
+                        │
+              ┌─────────┴─────────┐
+              ▼                   ▼
+        👨‍🏫 Teaching        🔬 Experiments
+              │                   │
+              └─────────┬─────────┘
+                        ▼
+                  📚 Knowledge
+                        │
+                        ▼
+                  🌎 Community
+```
+
+---
+
+## 🚀 Open Source & Academic Computing
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🐙_GitHub-Open%20Source-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/🔀_Pull_Requests-Contributor-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💡_Projects-Building-0969da?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤝_Collaboration-Community-f59e0b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🐙_Open_Source-GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/🔬_Reproducible_Research-Research-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻_Research_Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/🤝_Collaboration-Open%20Science-2ea44f?style=for-the-badge" />
 </p>
 
+I believe research becomes more useful when ideas, implementations, experiments, and knowledge can be shared with the broader community.
+
+---
+
 <p align="center">
-  <i>“Build things. Study things. Break things. Understand things.”</i>
+
+### 🔬 Research • 👨‍🏫 Teaching • 💻 Engineering • 🎓 Academia
+
+<i>Learning continuously. Building thoughtfully. Researching openly.</i>
+
 </p>
